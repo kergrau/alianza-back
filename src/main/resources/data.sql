@@ -1,0 +1,10 @@
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('jgutierrez', 'Juliana Gutierrez', 'jgutierrez@gmail.com', '3219876543', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('mmartinez', 'Manuel Martinez', 'mmartinez@gmail.com', '3202430994', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('aruiz', 'Ana Ruiz', 'aruiz@gmail.com', '3003937359', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('ogarcia', 'Oscar Garcia', 'ogarcia@gmail.com', '6051595223', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('tramos', 'Tania Ramos', 'tramos@gmail.com', '3119586773', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('cariza', 'Carlos Ariza', 'cariza@gmail.com', '3019874700', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('rvillaneda', 'Rodrigo Villaneda', 'rvillaneda@gmail.com', '3009886223', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('mfonseca', 'Mauricio Fonseca', 'mfonseca@gmail.com', '3164676544', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('cpalacio', 'Carlos Palacio', 'cpalacio@gmail.com', '3164676522', '2023-05-30 20:57:33');
+INSERT INTO clients (shared_key, business_id, email, phone, data_added) VALUES ('apalacios', 'Alberto Palacios', 'apalacios@gmail.com', '3164676544', '2023-05-30 20:57:33');
